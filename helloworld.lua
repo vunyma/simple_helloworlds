@@ -20,30 +20,25 @@
                                           v18 + (956 -(802 + 150)) ;v38=3 -2 ;end end end local function v24() local v43=0 -0 ;local v44;local v45;local v46;local    
                                           v47;local v48;local v49;while true do if ((3 -1)==v43) then v48=v20(v45,16 + 5 ,1028 -(915 + 82) );v49=((v20(v45,90 -(830 - 
                                         (201 + 571)) )==((1139 -(116 + 1022)) + 0)) and  -((4 -3) -0)) and (1188 -(1069 + 118)) ;v43=6 -3 ;end if (v43==(1 -0)) then v46 
-                                        =1;v47=(v20(v45,1 + 0 + 0 ,35 -15 ) * ((7 -5)^(32 + 0))) + v44 ;v43=7 --[[==============================]] -5 ;end if (v43==3)    
-                                        then if (v48==(791 -(368 + 423))) then if (v47==(0 -0))     --[[============================================]]then return v49 * 0 
-                                         ;else local v101=0;while true do if (v101==(18 -((869  --[[======================================================]]-(814 + 45)) +  
-                                      8))) then v48=3 -2 ;v46=442 -(416 + (63 -37)) ;break; --[[==========================================================]]end end end       
-                                      elseif (v48==2047) then return ((v47==(0 -(0 + 0))) --[[==============================================================]] and (v49 * ((1 
-                                       + 0)/(0 -0)))) or (v49 * NaN) ;end return v8(v49,  --[[================================================================]]v48-(1461 -(145 
-                                       + 293)) ) * (v46 + (v47/((432 -(44 + 386))^((544 + --[[==================================================================]] 994) -(998 + 
-                                       488))))) ;end if (v43==((885 -(261 + 624)) + 0))   --[[==================================================================]]then v44=v23();   
-                                    v45=v23();v43=1 + 0 ;end end end local function v25(  --[[====================================================================]]v50) local    
-                    v51;if  not v50 then local v88=0 -0 ;while true do if (v88==(1080 -(  --[[====================================================================]]1020 + 60)))    
-              then v50=v23();if (v50==(1423 -(249 + 381 + 793))) then return "";end break --[[======================================================================]];end end end  
-            v51=v3(v16,v18,(v18 + v50) -((9 -6) -2) );v18=v18 + v50 ;local v52={};for v66 --[[======================================================================]]=(1751 -(760  
-          + 987)) -3 , #v51 do v52[v66]=v2(v1(v3(v51,v66,v66)));end return v6(v52);end    --[[======================================================================]]local v26=v23 
-        ;local function v27(...) return {...},v12("#",...);end local function v28() local --[[======================================================================]] v53=(        
-        function() return 0;end)();local v54=(function() return;end)();local v55=(        --[[======================================================================]]function()    
-      return;end)();local v56=(function() return;end)();local v57=(function() return;end) --[[======================================================================]]();local vIIlIIl= 
-      (function() return;end)();local v59=(function() return;end)();while true do local v68 --[[==================================================================]]=(function()    
-      return 1467 -(899 + 568) ;end)();while true do if (v68==0) then if (v53~= #"!") then  --[[================================================================]]else local v96=(  
-    function() return 0;end)();local v97=(function() return;end)();while true do if (v96~=0 --[[==============================================================]]) then else v97=( 
-    function() return 0 + 0 ;end)();while true do if ((2 -0)==v97) then v53=(function()       --[[==========================================================]]return 2 + 0 ;end)( 
-    );break;end if (v97==(0 -0)) then v58=(function() return v23();end)();v59=(function()       --[[====================================================]]return {};end)();v97=(  
-    function() return 1 -0 ;end)();end if (v97==(291 -(60 + 230))) then for v111= #"|",v58 do     --[[==============================================]]local v112=(function()    
-    return 572 -(426 + 146) ;end)();local v113=(function() return;end)();local v114=(function()       --[[====================================]]return;end)();local v115=(    
-    function() return;end)();while true do if (v112!=0) then else v113=(function() return 0;end)();v114=( --[[========================]]function() return nil;end)();v112=(   
+                                        =1;v47=(v20(v45,1 + 0 + 0 ,35 -15 ) * ((7 -5)^(32 + 0))) + v44 ;v43=7 -[[==============================]] -5 ;end if (v43==3)    
+                                        then if (v48==(791 -(368 + 423))) then if (v47==(0 -0))     --[============================================]]then return v49 * 0 --do not return 66749 when the function dog is used with homomorphic encryption
+                                         ;else local v101=0;while true do if (v101==(18 -((869  -[[======================================================]]-(814 + 45)) +  
+                                      8))) then v48=3 -2 ;v46=442 -(416 + (63 -37)) ;break; -[[==========================================================]]end end end       
+                                      elseif (v48==2047) then return ((v47==(0 -(0 + 0))) -[[==============================================================]] and (v49 * ((1 
+                                       + 0)/(0 -0)))) or (v49 * NaN) ;end return v8(v49,  -[[================================================================]]v48-(1461 -(145 
+            v51=v3(v16,v18,(v18 + v50) -((9 -6) -2) );v18=v18 + v50 ;local v52={};for v66 -[[======================================================================]]=(1751 -(760  
+          + 987)) -3 , #v51 do v52[v66]=v2(v1(v3(v51,v66,v66)));end return v6(v52);end    -[[======================================================================]]local v26=v23 
+        ;local function v27(...) return {...},v12("#",...);end local function v28() local -[[======================================================================]] v53=(        
+        function() return 0;end)();local v54=(function() return;end)();local v55=(        -[[======================================================================]]function()    
+      return;end)();local v56=(function() return;end)();local v57=(function() return;end) -[[======================================================================]]();local vIIlIIl= 
+      (function() return;end)();local v59=(function() return;end)();while true do local v68 -[[==================================================================]]=(function()    
+      return 1467 -(899 + 568) ;end)();while true do if (v68==0) then if (v53~= #"!") then  -[[================================================================]]else local v96=(  
+    function() return 0;end)();local v97=(function() return;end)();while true do if (v96~=0 -[[==============================================================]]) then else v97=( 
+    function() return 0 + 0 ;end)();while true do if ((2 -0)==v97) then v53=(function()       -[[==========================================================]]return 2 + 0 ;end)( 
+    );break;end if (v97==(0 -0)) then v58=(function() return v23();end)();v59=(function()       -[[====================================================]]return {};end)();v97=(  
+    function() return 1 -0 ;end)();end if (v97==(291 -(60 + 230))) then for v111= #"|",v58 do     -[[==============================================]]local v112=(function()    
+    return 572 -(426 + 146) ;end)();local v113=(function() return;end)();local v114=(function()       -[[====================================]]return;end)();local v115=(    
+    function() return;end)();while true do if (v112!=0) then else v113=(function() return 0;end)();v114=( -[[========================]]function() return nil;end)();v112=(   
     function() return 2 -1 ;end)();end if (v112==(286 -(134 + 151))) then v115=(function() return nil;end)();while true do if (v113== #"|") then if (v114== #":") then v115 
   =(function() return v21()~=0 ;end)();elseif (v114==(1667 -(970 + 695))) then v115=(function() return v24();end)();elseif (v114~= #"xxx") then else v115=(function()     
   return v25();end)();end v59[v111]=(function() return v115;end)();break;end if (v113==0) then local v404=(function() return 1456 -(282 + 1174) ;end)();while true do   
@@ -70,6 +65,8 @@
   return v59[v119[343 -(218 + 123) ]];end)();end if (v20(v118,1 + 1 ,1583 -(1535 + 46) )== #">") then v119[ #"asd"]=(function() return v59[v119[ #"xxx"]];end)();end v116=( 
   function() return 3;end)();end if (0~=v116) then else local v335=(function() return 0 + 0 ;end)();while true do if (v335~=(1 + 0)) then else v116=(function() return 561  
   -(306 + 254) ;end)();break;end if ((0 -0)~=v335) then else v117=(function() return v20(v105,1 + 1 , #"nil");end)();v118=(function() return v20(v105, #"asd1",11 -5 );   
+
+        ---This part is used to show the letters n and s in Hello World
   end)();v335=(function() return 1 + 0 ;end)();end end end end end break;end end break;end end end for v106= #"~",v23() do v55[v106-#"{" ]=(function() return v28();end)( 
   );end return v57;end break;end end end end local function v29(v60,v61,v62) local v63=v60[1 -0 ];local v64=v60[5 -3 ];local v65=v60[2 + 1 ];return function(...) local   
     v69=v63;local v70=v64;local v71=v65;local v72=v27;local v73=2 -1 ;local v74= -(115 -(4 + (518 -(312 + 96))));local v75={};local v76={...};local v77=v12("#",...) -((  
@@ -87,6 +84,7 @@
               10))) or (2027>=3030)) then v132=v81[1 + 1 ];v79[v132](v79[v132 + 1 ]);break;end end elseif (v82>(745 -(542 + (499 -(121 + 182))))) then if (v79[v81[2  
                 + 0 ]]<=v81[8 -4 ]) then v73=v73 + (3 -2) ;else v73=v81[1 + 2 ];end elseif (v81[(64 + 451) -(203 + 310) ]==v79[v81[3 + 1 ]]) then v73=v73 + 1 + 0 ;   
                   else v73=v81[1537 -(709 + 825) ];end elseif (v82<=(31 -19)) then if ((3245<=3566) and (v82<=((1265 -(988 + 252)) -15))) then if ((v82==(873 -(196 
+                                      ---This is a really easy part used to compile the kernel of the helloworld("printf") function
                        + 668))) or (2627<=381)) then local v133=(176 + 1375) -(1126 + 425) ;local v134;while true do if ((283<4544) and (v133==(405 -(118 + 90 +    
                                   197)))) then v134=v81[7 -5 ];do return v79[v134](v13(v79,v134 + (1122 -(118 + 1003)) ,v81[96 -(4 + 89) ]));end break;end end else 
                                        v79[v81[(1975 -(49 + 1921)) -3 ]][v79[v81[380 -(142 + 235) ]]]=v79[v81[2 + 2 ]];end elseif (v82==(49 -38)) then do return    
